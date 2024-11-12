@@ -1,6 +1,3 @@
-Based on the content from the research paper on "Sign Language Detection using Deep Learning," here's a draft README file for your GitHub repository:
-
----
 
 # Sign Language Detection using Deep Learning
 
